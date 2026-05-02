@@ -14,6 +14,7 @@ This repository hosts binary dependencies required for ViDownloader to function 
 | ChromeDriver | 137.0.7151.55 | Browser automation | [ChromeDriver Downloads](https://googlechromelabs.github.io/chrome-for-testing/) |
 | FFmpeg | N-121245-gc605d2a7ae-20250926 | Media processing | [yt-dlp/FFmpeg-Builds](https://github.com/yt-dlp/FFmpeg-Builds) |
 | QuickJS | 2025-09-13 | JavaScript engine | [bellard.org/quickjs](https://bellard.org/quickjs/) |
+| bun-windows-x64.zip | 1.3.9 | Fastest JavaScript engine | [bun.com](https://bun.com/)
 
 ## Download URLs
 
