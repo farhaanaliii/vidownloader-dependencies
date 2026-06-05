@@ -15,7 +15,7 @@ This repository hosts binary dependencies required for ViDownloader to function 
 | FFmpeg | N-121245-gc605d2a7ae-20250926 | Media processing | [yt-dlp/FFmpeg-Builds](https://github.com/yt-dlp/FFmpeg-Builds) |
 | QuickJS | 2025-09-13 | JavaScript engine | [bellard.org/quickjs](https://bellard.org/quickjs/) |
 | bun-windows-x64.zip | 1.3.9 | Fastest JavaScript engine | [bun.com](https://bun.com/) |
-| bgutil-pot-windows-x86_64 | 0.8.1 | PO token server | [bgutil-server](https://github.com/farhaanaliii/vidownloader-dependencies/releases/download/v1.0.0/bgutil-pot-windows-x86_64.zip) |
+| bgutil-pot | 0.8.1 | PO token server | [bgutil-server](https://github.com/farhaanaliii/vidownloader-dependencies/releases/download/v1.0.0/bgutil-pot.zip) |
 
 ## Download URLs
 
